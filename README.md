@@ -1,2 +1,2 @@
 # test-apigoogle
-test bacan
+test bacan, usar con live server 🥸
